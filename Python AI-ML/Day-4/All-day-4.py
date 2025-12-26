@@ -33,8 +33,8 @@ if a > 10:
 #ask user for input and execute the block only if the name entered is your name
 nem=input("Enter your name: ").lower()
 if nem:
-    if nem=="yugdeep":
-        print("Welcome Yugdeep!")
+    if nem=="shrish":
+        print("Welcome Shrish!")
 
 #ask user amt to be paid and if amt is >1000 compute the discount of 10% and calculate the actual amt to be paid otherwise just print the amt
 amt=float(input("Enter the amount to be paid: "))
