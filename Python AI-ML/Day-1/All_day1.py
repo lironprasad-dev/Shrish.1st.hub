@@ -19,7 +19,7 @@ print("""biratnagar
   """)
 
 # # #variables
-name="Yugdeep"
+name="Shrish"
 roll=121
 place="mt rushmore"
 
@@ -40,8 +40,8 @@ print(x,y,z)
            
 #value interchange :
 
-fname="Yugdeep" 
-lname="Koirala"
+fname="Shrish" 
+lname="pokharel"
 fname,lname=lname,fname
 print(fname,lname)
 
